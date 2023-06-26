@@ -1,0 +1,22 @@
+Guida_al_codice_agile 5 15.50 Robert Martin 1952
+Programmazione_in_Python 12.00 Mark Summerfield 1964
+Intelligenza_Artificiale 3 10.00 Peter Norvig 1956
+Il_linguaggio_del_computer 4 8.50 Paolo Siano 1978
+Machine_Learning_Algoritmi 10 10.00 Barbara Rossi 1980
+Architettura_del_software 10 20.00 Robert Martin 1952
+Big_Data 2 10.50 Alessandro Bozzon 1980
+Linguaggi_e_algoritmi 6 14.00 Giuseppe Fattori 1965
+Machine_Learning_Algoritmi 15 11.00 Luca Oneto 1979
+Sicurezza_informatica 4 11.50 Fabio Petrini 1972
+Programmazione_ad_oggetti 12 22.00 Luca Franzoni 1983
+Deep_Learning 12 10.00 Luca Oneto 1979
+Reti_di_calcolatori 3 9.00 Andrew Tanenbaum 1944
+Deep_Learning 8 11.00 Barbara Rossi 1980
+Algoritmi_e_strutture_dati 5 15.00 Thomas Cormen 1956
+Data_Science_Fondamenti 4 8.00 Alberto Cairo 2000
+Intelligenza_artificiale 6 14.00 Stuart Russell 1962
+Sistemi_operativi 2 22.00 Matteo Biondi 1988
+Raspberry_pi_e_python 1 11.00 Lucca Matta 2000
+Macchine_Virtuali 4 11.00 Barbara Rossi 1996
+Programmare_Arduino 2 12.00 Barbara Rosso 1980
+Programmare_Arduino 3 18.00 Claudia Verdi 1979
